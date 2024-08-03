@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Act3_Ultra_M.png">
+<SubTexture name="torso idle 10000" x="0" y="0" width="1551" height="1166" frameX="-604" frameY="-18" frameWidth="2189" frameHeight="1203" />
+<SubTexture name="torso idle 20000" x="1551" y="0" width="1846" height="1156" frameX="-54" frameY="-12" frameWidth="2189" frameHeight="1203" />
+<SubTexture name="Act3_Ultra_M torso change pose0000" x="1551" y="1156" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+</TextureAtlas>

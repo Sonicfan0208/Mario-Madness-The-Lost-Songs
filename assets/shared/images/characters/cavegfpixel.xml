@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cavegfpixel.png"><SubTexture name="cavegfpixel bop left0000" x="0" y="106" width="68" height="49" frameX="0" frameY="-4" frameWidth="68" frameHeight="53" />
+<SubTexture name="cavegfpixel bop left0001" x="65" y="53" width="65" height="50" frameX="-1" frameY="-3" frameWidth="68" frameHeight="53" />
+<SubTexture name="cavegfpixel bop left0002" x="0" y="0" width="65" height="53" frameX="-2" frameY="0" frameWidth="68" frameHeight="53" />
+<SubTexture name="cavegfpixel bop right0000" x="68" y="106" width="68" height="49" frameX="0" frameY="-4" frameWidth="68" frameHeight="53" />
+<SubTexture name="cavegfpixel bop right0001" x="132" y="0" width="65" height="50" frameX="-1" frameY="-3" frameWidth="68" frameHeight="53" />
+<SubTexture name="cavegfpixel bop right0002" x="0" y="0" width="65" height="53" frameX="-2" frameY="0" frameWidth="68" frameHeight="53" />
+<SubTexture name="cavegfpixel miss0000" x="65" y="0" width="67" height="53" frameX="-1" frameY="0" frameWidth="68" frameHeight="53" />
+<SubTexture name="cavegfpixel miss0001" x="0" y="53" width="65" height="53" frameX="-2" frameY="0" frameWidth="68" frameHeight="53" />
+</TextureAtlas>

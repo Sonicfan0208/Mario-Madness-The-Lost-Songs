@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bad Mario.png"><SubTexture name="Bad Mario idle0000" x="0" y="0" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario idle0001" x="69" y="0" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario idle0002" x="0" y="41" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario idle0003" x="69" y="41" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario idle0004" x="0" y="82" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario idle0005" x="0" y="82" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario right0000" x="69" y="82" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario right0001" x="138" y="0" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario right0002" x="138" y="41" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario right0003" x="138" y="82" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario up0000" x="0" y="123" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario up0001" x="69" y="123" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario up0002" x="138" y="123" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario up0003" x="0" y="164" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario left0000" x="69" y="164" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario left0001" x="138" y="164" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario left0002" x="207" y="0" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario left0003" x="207" y="41" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario down0000" x="207" y="82" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario down0001" x="207" y="123" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario down0002" x="207" y="164" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario before throw shell0000" x="0" y="205" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario before throw shell0001" x="69" y="205" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario about to throw shell0000" x="138" y="205" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario about to throw shell0001" x="207" y="205" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario throw shell0000" x="276" y="0" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario throw shell0001" x="276" y="41" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario throw shell0002" x="276" y="82" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario before throw shroom0000" x="276" y="123" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario before throw shroom0001" x="276" y="164" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario about to throw shroom0000" x="276" y="205" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario about to throw shroom0001" x="0" y="246" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario throw shroom0000" x="276" y="0" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario throw shroom0001" x="276" y="41" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario throw shroom0002" x="276" y="82" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario lets0000" x="69" y="246" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario a0000" x="138" y="246" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario go0000" x="207" y="246" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario sad0000" x="276" y="246" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario sad0001" x="0" y="287" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario sad0002" x="69" y="287" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario sad0003" x="138" y="287" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario sad0004" x="207" y="287" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario sad0005" x="276" y="287" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario sad0006" x="345" y="0" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario sad0007" x="138" y="287" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario die0000" x="345" y="41" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario die0001" x="345" y="82" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario die0002" x="345" y="123" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario die0003" x="345" y="164" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario die0004" x="345" y="205" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario die0005" x="345" y="246" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario die0006" x="345" y="287" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario die0007" x="0" y="328" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+<SubTexture name="Bad Mario die0008" x="69" y="328" width="69" height="41" frameX="0" frameY="0" frameWidth="69" frameHeight="41" />
+</TextureAtlas>

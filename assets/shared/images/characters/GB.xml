@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GB.png"><SubTexture name="GB idle0000" x="0" y="0" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB idle0001" x="97" y="0" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB idle0002" x="0" y="97" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB idle0003" x="97" y="97" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB idle0004" x="194" y="0" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB left0000" x="194" y="97" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB left0001" x="0" y="194" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB right0000" x="97" y="194" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB right0001" x="194" y="194" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB up0000" x="291" y="0" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB up0001" x="291" y="97" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB down0000" x="291" y="194" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB down0001" x="0" y="291" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB transform0000" x="97" y="291" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB transform0001" x="194" y="291" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+<SubTexture name="GB transform0002" x="291" y="291" width="97" height="97" frameX="0" frameY="0" frameWidth="97" frameHeight="97" />
+</TextureAtlas>

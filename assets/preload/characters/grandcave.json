@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-85,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "pixelgrand idle"
+		},
+		{
+			"offsets": [
+				-85,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "pixelgrand down"
+		},
+		{
+			"offsets": [
+				-97,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "pixelgrand left"
+		},
+		{
+			"offsets": [
+				-97,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "pixelgrand up"
+		},
+		{
+			"offsets": [
+				-85,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "pixelgrand right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/cavegdpixel",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "cavedad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		129,
+		112
+	],
+	"camera_position": [
+		-30,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 12
+}

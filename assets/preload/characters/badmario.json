@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "Bad Mario idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bad Mario left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bad Mario right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bad Mario up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bad Mario down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "lets",
+			"fps": 15,
+			"name": "Bad Mario lets",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "a",
+			"fps": 15,
+			"name": "Bad Mario a0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "go",
+			"fps": 15,
+			"name": "Bad Mario go",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "shell0",
+			"fps": 15,
+			"name": "Bad Mario before throw shell",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "shell1",
+			"fps": 15,
+			"name": "Bad Mario about to throw shell",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "shell2",
+			"fps": 15,
+			"name": "Bad Mario throw shell",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "shroom0",
+			"fps": 15,
+			"name": "Bad Mario before throw shroom",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "shroom1",
+			"fps": 15,
+			"name": "Bad Mario about to throw shroom",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				150
+			],
+			"anim": "shroom2",
+			"fps": 15,
+			"name": "Bad Mario throw shroom",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-34,
+				150
+			],
+			"anim": "sad",
+			"fps": 15,
+			"name": "Bad Mario sad",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Bad_Mario",
+	"position": [
+		0,
+		715
+	],
+	"healthicon": "bad",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		64,
+		112
+	],
+	"camera_position": [
+		120,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 4
+}

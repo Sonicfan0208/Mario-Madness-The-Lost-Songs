@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				117,
+				127
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				262,
+				390
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "new lopp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				117,
+				191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BAD_GAMEOVER",
+	"position": [
+		-290,
+		530
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		130,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

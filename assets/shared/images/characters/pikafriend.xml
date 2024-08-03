@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pikafriend.png"><SubTexture name="Pikafriend idle0000" x="0" y="0" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend idle0001" x="33" y="0" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend idle0002" x="0" y="30" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend idle0003" x="33" y="30" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend idle0004" x="33" y="30" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend idle0005" x="33" y="30" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend left0000" x="66" y="0" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend left0001" x="66" y="30" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend right0000" x="0" y="60" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend right0001" x="33" y="60" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend up0000" x="66" y="60" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend up0001" x="99" y="0" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend up0002" x="99" y="30" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend down0000" x="99" y="60" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend down0001" x="0" y="90" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend hurt0000" x="33" y="90" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend hurt0001" x="33" y="90" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend hurt0002" x="33" y="90" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend hurt0003" x="33" y="90" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend die0000" x="66" y="90" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+<SubTexture name="Pikafriend him0000" x="99" y="90" width="33" height="30" frameX="0" frameY="0" frameWidth="33" frameHeight="30" />
+</TextureAtlas>

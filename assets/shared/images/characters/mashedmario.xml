@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mashedmarioa.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MARIO DOWN0000" x="0" y="0" width="449" height="616"/>
+	<SubTexture name="MARIO DOWN0001" x="0" y="0" width="449" height="616"/>
+	<SubTexture name="MARIO DOWN0002" x="459" y="0" width="449" height="616"/>
+	<SubTexture name="MARIO DOWN0003" x="459" y="0" width="449" height="616"/>
+	<SubTexture name="MARIO DOWN0004" x="918" y="0" width="449" height="616"/>
+	<SubTexture name="MARIO DOWN0005" x="918" y="0" width="449" height="616"/>
+	<SubTexture name="MARIO DOWN0006" x="1377" y="0" width="449" height="616"/>
+	<SubTexture name="MARIO DOWN0007" x="1377" y="0" width="449" height="616"/>
+	<SubTexture name="Mario idle0000" x="1836" y="0" width="509" height="691"/>
+	<SubTexture name="Mario idle0001" x="1836" y="0" width="509" height="691"/>
+	<SubTexture name="Mario idle0002" x="2355" y="0" width="509" height="691"/>
+	<SubTexture name="Mario idle0003" x="2355" y="0" width="509" height="691"/>
+	<SubTexture name="Mario idle0004" x="2874" y="0" width="509" height="691"/>
+	<SubTexture name="Mario idle0005" x="2874" y="0" width="509" height="691"/>
+	<SubTexture name="Mario idle0006" x="3393" y="0" width="509" height="691"/>
+	<SubTexture name="Mario idle0007" x="3393" y="0" width="509" height="691"/>
+	<SubTexture name="Mario idle0008" x="0" y="701" width="509" height="691"/>
+	<SubTexture name="Mario idle0009" x="0" y="701" width="509" height="691"/>
+	<SubTexture name="mario aplastado el crico0000" x="519" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0001" x="519" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0002" x="855" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0003" x="855" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0004" x="1191" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0005" x="1527" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0006" x="1863" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0007" x="2199" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0008" x="2535" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0009" x="2535" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0010" x="2871" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0011" x="2871" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0012" x="3207" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0013" x="3543" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0014" x="3543" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0015" x="0" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0016" x="0" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0017" x="336" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0018" x="336" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0019" x="672" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0020" x="672" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0021" x="1008" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0022" x="1008" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0023" x="3543" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0024" x="3543" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0025" x="0" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0026" x="0" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0027" x="336" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0028" x="336" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0029" x="672" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0030" x="672" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0031" x="1008" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0032" x="1008" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0033" x="3543" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0034" x="3543" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0035" x="0" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0036" x="0" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0037" x="336" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0038" x="336" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0039" x="672" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0040" x="672" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0041" x="1008" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0042" x="1008" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0043" x="3543" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0044" x="3543" y="701" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0045" x="0" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0046" x="0" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0047" x="336" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0048" x="336" y="1402" width="326" height="670"/>
+	<SubTexture name="mario aplastado el crico0049" x="672" y="1402" width="326" height="670"/>
+	<SubTexture name="mario boton0000" x="1344" y="1402" width="495" height="695"/>
+	<SubTexture name="mario boton0001" x="1344" y="1402" width="495" height="695"/>
+	<SubTexture name="mario boton0002" x="1849" y="1402" width="495" height="695"/>
+	<SubTexture name="mario boton0003" x="2354" y="1402" width="495" height="695"/>
+	<SubTexture name="mario boton0004" x="2859" y="1402" width="495" height="695"/>
+	<SubTexture name="mario boton0005" x="3364" y="1402" width="495" height="695"/>
+	<SubTexture name="mario boton0006" x="0" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0007" x="505" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0008" x="1010" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0009" x="1515" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0010" x="2020" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0011" x="2525" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0012" x="3030" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0013" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0014" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0015" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0016" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0017" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0018" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0019" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0020" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0021" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0022" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0023" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0024" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0025" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0026" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0027" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0028" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0029" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0030" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0031" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0032" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0033" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario boton0034" x="3535" y="2107" width="495" height="695"/>
+	<SubTexture name="mario espaldas static0000" x="0" y="2812" width="319" height="675"/>
+	<SubTexture name="mario espaldas static0001" x="0" y="2812" width="319" height="675"/>
+	<SubTexture name="mario espaldas static0002" x="329" y="2812" width="319" height="675"/>
+	<SubTexture name="mario espaldas static0003" x="329" y="2812" width="319" height="675"/>
+	<SubTexture name="mario espaldas static0004" x="658" y="2812" width="319" height="675"/>
+	<SubTexture name="mario espaldas static0005" x="658" y="2812" width="319" height="675"/>
+	<SubTexture name="mario espaldas static0006" x="987" y="2812" width="319" height="675"/>
+	<SubTexture name="mario espaldas static0007" x="987" y="2812" width="319" height="675"/>
+	<SubTexture name="mario espaldas static0008" x="1316" y="2812" width="319" height="675"/>
+	<SubTexture name="mario espaldas static0009" x="1316" y="2812" width="319" height="675"/>
+	<SubTexture name="mario left 0000" x="1645" y="2812" width="401" height="684"/>
+	<SubTexture name="mario left 0001" x="1645" y="2812" width="401" height="684"/>
+	<SubTexture name="mario left 0002" x="2056" y="2812" width="401" height="684"/>
+	<SubTexture name="mario left 0003" x="2467" y="2812" width="401" height="684"/>
+	<SubTexture name="mario left 0004" x="2878" y="2812" width="401" height="684"/>
+	<SubTexture name="mario left 0005" x="2878" y="2812" width="401" height="684"/>
+	<SubTexture name="mario left 0006" x="3289" y="2812" width="401" height="684"/>
+	<SubTexture name="mario left 0007" x="0" y="3506" width="401" height="684"/>
+	<SubTexture name="mario right0000" x="411" y="3506" width="590" height="705"/>
+	<SubTexture name="mario right0001" x="411" y="3506" width="590" height="705"/>
+	<SubTexture name="mario right0002" x="1011" y="3506" width="590" height="705"/>
+	<SubTexture name="mario right0003" x="1011" y="3506" width="590" height="705"/>
+	<SubTexture name="mario right0004" x="1611" y="3506" width="590" height="705"/>
+	<SubTexture name="mario right0005" x="1611" y="3506" width="590" height="705"/>
+	<SubTexture name="mario right0006" x="2211" y="3506" width="590" height="705"/>
+	<SubTexture name="mario right0007" x="2211" y="3506" width="590" height="705"/>
+	<SubTexture name="mario up0000" x="2811" y="3506" width="488" height="735"/>
+	<SubTexture name="mario up0001" x="2811" y="3506" width="488" height="735"/>
+	<SubTexture name="mario up0002" x="3309" y="3506" width="488" height="735"/>
+	<SubTexture name="mario up0003" x="3309" y="3506" width="488" height="735"/>
+	<SubTexture name="mario up0004" x="0" y="4251" width="488" height="735"/>
+	<SubTexture name="mario up0005" x="0" y="4251" width="488" height="735"/>
+	<SubTexture name="mario up0006" x="498" y="4251" width="488" height="735"/>
+	<SubTexture name="mario up0007" x="498" y="4251" width="488" height="735"/>
+	<SubTexture name="mario vuelta0000" x="996" y="4251" width="565" height="692"/>
+	<SubTexture name="mario vuelta0001" x="1571" y="4251" width="565" height="692"/>
+	<SubTexture name="mario vuelta0002" x="2146" y="4251" width="565" height="692"/>
+	<SubTexture name="mario vuelta0003" x="2721" y="4251" width="565" height="692"/>
+	<SubTexture name="mario vuelta0004" x="2721" y="4251" width="565" height="692"/>
+	<SubTexture name="mario vuelta0005" x="3296" y="4251" width="565" height="692"/>
+	<SubTexture name="mario vuelta0006" x="0" y="4996" width="565" height="692"/>
+	<SubTexture name="mario vuelta0007" x="575" y="4996" width="565" height="692"/>
+	<SubTexture name="mario vuelta0008" x="1150" y="4996" width="565" height="692"/>
+	<SubTexture name="mario vuelta0009" x="1150" y="4996" width="565" height="692"/>
+	<SubTexture name="mario vuelta0010" x="1725" y="4996" width="565" height="692"/>
+	<SubTexture name="mario vuelta0011" x="1725" y="4996" width="565" height="692"/>
+	<SubTexture name="mario vuelta0012" x="2300" y="4996" width="565" height="692"/>
+	<SubTexture name="mario vuelta0013" x="2300" y="4996" width="565" height="692"/>
+</TextureAtlas>
